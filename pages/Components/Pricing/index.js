@@ -20,17 +20,15 @@ const Pricing = () => {
         <div className="pricing-metodos-de-pago">
             <h4>Métodos de pago</h4>
             <ul>
-                <li>Paypal, tarjeta débito o crédito internacional USD 80</li>
-                <li>Transferencia bancaria en todo Europa €75</li>
-                <li>Transferencia bancaria solo Argentinos $AR 8000</li>
-                <li>Mercado Pago Argentinos $AR 8000</li>
+                <li>Paypal, tarjeta débito o crédito internacional <span className="precio-tachado">USD 80</span> USD 68</li>
+                <li>Transferencia bancaria solo Argentinos <span className="precio-tachado">$AR 9600</span> $AR 8160</li>
+                <li>Mercado Pago Argentinos <span className="precio-tachado">$AR 9600</span> $AR 8160</li>
             </ul>
             <h4>Precio por clase</h4>
             <ul>
                 <li>Paypal, tarjeta débito o crédito internacional USD 10</li>
-                <li>Transferencia bancaria en todo Europa  €10 </li>
-                <li>Transferencia bancaria solo Argentinos $AR 1000</li>
-                <li>Mercado Pago Argentinos $AR 1000</li>
+                <li>Transferencia bancaria solo Argentinos $AR 1200</li>
+                <li>Mercado Pago Argentinos $AR 1200</li>
             </ul>
         </div>
 

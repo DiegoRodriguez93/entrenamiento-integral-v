@@ -50,3 +50,31 @@
   .cien{
       width:85%!important;
   }
+
+.precio-tachado{
+    color: $light-red;
+    text-decoration: line-through;
+}
+
+.clock-countdown{
+    text-align: center;
+    padding-bottom: 32px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 2px;
+    border-radius: 10px;
+    font-size: 1.4em;
+    h1{
+        font-size:1.8em
+    }
+}
+
+.Oswald{
+    font-family: 'Oswald'!important;
+    font-weight: 700;
+}
+
+.vertical-align{
+    margin-top: auto;
+    margin-bottom: auto;
+}

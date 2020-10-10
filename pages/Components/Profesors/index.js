@@ -9,7 +9,7 @@ const Profesors = () => {
             </div>
 
             <article className="profesor col-lg-4 md-4 sm-12">
-                <img className="profesor-photo" src="/img/profesors/gmandresrodriguez.jpg" />
+                <img className="profesor-photo" src="/img/profesors/gmandresrodriguez.jpeg" />
                 <h4 className="profesor-name">GM Andrés Rodríguez</h4>
                 <p className="profesor-description">Gran Maestro Internacional de ajedrez desde 1997.
                 Campeón Panamericano Juvenil en Asunción del Paraguay en mayo de 1990.
@@ -20,7 +20,7 @@ const Profesors = () => {
             </article>
 
             <article className="profesor col-lg-4 md-4 sm-12">
-                <img className="profesor-photo" src="/img/profesors/mijorgerosito.jpg" />
+                <img className="profesor-photo" src="/img/profesors/mijorgerosito.jpeg" />
                 <h4 className="profesor-name">MI Jorge Rosito</h4>
                 <p className="profesor-description">Maestro Internacional desde 1998
                 Norma de GM en 2003
@@ -33,7 +33,7 @@ const Profesors = () => {
             </article>
 
             <article className="profesor col-lg-4 md-4 sm-12">
-                <img className="profesor-photo" src="/img/profesors/mibenjaminmela.jpg" />
+                <img className="profesor-photo" src="/img/profesors/mibenjaminmela.jpeg" />
                 <h4 className="profesor-name">MI Benjamín Mela</h4>
                 <p className="profesor-description">Maestro Internacional desde 2006 (Barcelona, España 🇪🇸)
                 Entrenador de los seleccionados Catalanes de categorías (2005/2006) en las finales del Campeonato de España 🇪🇸
@@ -46,7 +46,7 @@ const Profesors = () => {
             <div className="col-lg-2 md-2 sm-0"></div>
 
             <article className="profesor col-lg-4 md-4 sm-12">
-                <img className="profesor-photo" src="/img/profesors/gmdiegoflores.jpg" />
+                <img className="profesor-photo" src="/img/profesors/gmdiegoflores.jpeg" />
                 <h4 className="profesor-name">GM Diego Flores</h4>
                 <p className="profesor-description">Gran Maestro Internacional desde 2008.
                 Campeón Argentino Absoluto en 7 ocasiones.
@@ -58,7 +58,7 @@ const Profesors = () => {
             </article>
 
             <article className="profesor col-lg-4 md-4 sm-12">
-                <img className="profesor-photo" src="/img/profesors/gmleandrokrysa.jpg" />
+                <img className="profesor-photo" src="/img/profesors/gmleandrokrysa.jpeg" />
                 <h4 className="profesor-name">GM Leandro Krysa</h4>
                 <p className="profesor-description">-GM desde 2017
 -Fide Trainer (Georgia 2018)

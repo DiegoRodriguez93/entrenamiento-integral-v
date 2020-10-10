@@ -9,6 +9,7 @@
     "build2": "next build && next export"
   },
   "dependencies": {
+    "@rumess/react-flip-countdown": "^1.0.3",
     "axios": "^0.20.0",
     "bootstrap": "5.0.0-alpha2",
     "next": "9.5.3",
