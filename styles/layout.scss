@@ -125,7 +125,7 @@ header{
         color: $dark-blue;
         display:block;
     }
-    button{
+    .button{
     display: block;
     width: 85%;
     padding: 9px;
@@ -134,7 +134,7 @@ header{
     background-color: $yellow;
     cursor: pointer;
     }
-    button:hover{
+    .button:hover{
         display: block;
         width: 85%;
         padding: 9px;

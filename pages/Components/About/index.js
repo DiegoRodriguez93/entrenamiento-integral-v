@@ -22,7 +22,7 @@ return (
 
     -Duración de las clases 2 horas .<br/><br/>
 
-    -Serán 18 horas de clases Del 20 de Octubre al 1 de Noviembre, más 4 horas de actividades especiales<br/>
+    -Serán 18 horas de clases Del 23 de Octubre al 1 de Noviembre, más 4 horas de actividades especiales<br/>
      que quedarán grabadas y a disposición de los alumnos, más las actividades extras<br/><br/>
     </p>
 

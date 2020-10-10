@@ -19,3 +19,34 @@
     align-items:center;
     text-align: center;
 }
+
+.error-input{
+    color: red;
+    background-color: #ffcaf1;
+    text-align: center;
+    border-radius: 3px;
+    width: 85%;
+}
+
+.transferencia-bancaria{
+    width: 85%;
+    background: #56ff00;
+    padding: 8px;
+    text-align: center;
+    margin-bottom: 15px;
+    display: block;
+    border-radius: 8px;
+}
+
+.mercadopago-button{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.mercadopago-button:after {
+    content: ' con Mercado Pago';
+  }
+
+  .cien{
+      width:85%!important;
+  }

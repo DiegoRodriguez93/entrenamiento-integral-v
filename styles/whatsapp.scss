@@ -1,0 +1,31 @@
+.whatsapp-button {
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding-right: 5%;
+    margin-bottom: 25px;
+    opacity: 1;
+    cursor: pointer;
+  }
+  
+  .whatsapp-button:hover {
+    opacity: 0.6;
+  }
+  
+  .mail-button {
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding-right: 5%;
+    margin-bottom: 110px;
+    opacity: 1;
+    cursor: pointer;
+  }
+  
+  .mail-button:hover {
+    opacity: 0.6;
+  }
